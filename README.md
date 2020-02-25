@@ -1,6 +1,6 @@
 # sonarr-sma (deprecated)
 
-# Don't use this anymore.  The official image now supports the 'preview' tag so this image is no longer necessary.  Use the image based on this instead: https://github.com/mdhiggins/radarr-sma
+# Don't use this anymore.  The official image now supports the 'preview' tag so this image is no longer necessary.  Use the image based on this instead: https://github.com/mdhiggins/sonarr-sma
 
 Sonarr PREVIEW docker image based on linuxserver/sonarr with SMA built in using python3
 
